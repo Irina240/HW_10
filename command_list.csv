@@ -1,0 +1,125 @@
+    1  clear
+    2  cd....
+    3  cd ..
+    4  cd ..
+    5  clear
+    6  cd desktop
+    7  cd forgit
+    8  git clone 
+    9  clear
+   10  git clone 
+   11  clear
+   12  git clone https://github.com/Irina240/HW_10.git
+   13  cd repositore
+   14  cd repository
+   15  git clone https://github.com/Irina240/HW_10.git
+   16  cd https://github.com/Irina240/HW_10.git
+   17  clear
+   18  git clone https://github.com/Irina240/HW_10.git
+   19  clers
+   20  clear
+   21  cd
+   22  clears
+   23  clear
+   24  ls
+   25  cd Desktop/
+   26  cd forgit
+   27  ls
+   28  cd HW_10/
+   29  touch text_ignore.txt
+   30  cd .gitignore
+   31  ls
+   32  cd .gitignore
+   33  ls
+   34  ls -la
+   35  wim .gitignore 
+   36  wim .gitignore.txt
+   37  cd .gitignore 
+   38  pwd
+   39  ls-l
+   40  ls -l
+   41  clear
+   42  pwd
+   43  cd Desktop/
+   44  pwd
+   45  mkdir text_ignore.txt
+   46  ls
+   47  cd text_ignore.txt/
+   48  cd .. ..
+   49  cd ..
+   50  cd ..
+   51  clear
+   52  cd Desktop/
+   53  cd Dz6
+   54  git clone https://github.com/Irina240/HW_10.git
+   55  ls
+   56  cd HW_10
+   57  touch text_ignore.txt
+   58  ls
+   59  vim .gitignore
+   60  git status
+   61  git add
+   62  git add.
+   63  git commit -m "modified .gitignore"
+   64  git add.
+   65  git commit -m "modified .gitignore"
+   66  git commit -a "modified"
+   67  git add .giignore
+   68  git add .gitignore
+   69  clear
+   70  cd ..
+   71  cd ..
+   72  cd ..
+   73  clear
+   74  cd Desktop/
+   75  cd test/
+   76  git config --global user.name Irina
+   77  clear
+   78  git config --global user.name Irina240
+   79  git config --global user.email irishagulevskaya@gmail.com
+   80  git config --get user.name
+   81  git config --get user.email
+   82  git clone https://github/Irina240/HW_10.git
+   83  git clone https://github.com/Irina240/HW_10.git
+   84  cd HW_10
+   85  git status
+   86  touch text_ignore.txt
+   87  ls
+   88  wim .gitignore
+   89  wim text_ignore.txt
+   90* 
+   91  wim .gitignore
+   92  ls
+   93  cd HW_10
+   94  ls
+   95  wim .gitignore
+   96  ls -l
+   97  wim .gitignore
+   98  nano .gitignore
+   99  git status
+  100* 
+  101* 
+  102  git add .
+  103  git add .
+  104  git add .
+  105  git commit -m "updated .gitignore"
+  106  git status
+  107  touch main_test.txt
+  108  git add .
+  109  git commit -m "created new file main_test.txt"
+  110  git checkout -b develop
+  111  git branch
+  112  touch develop_test.txt
+  113  git add .
+  114  git commit -m "created new file develop_test.txt"
+  115  nano develop_test.txt
+  116  git status
+  117  git add .
+  118  nano develop_test.txt
+  119  git status
+  120  git add .
+  121  git commit -m "changed file develop_test.txt"
+  122  git checkout main
+  123  git merge develop
+  124  git log
+  125  history > command_list.csv
